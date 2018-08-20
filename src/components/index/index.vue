@@ -27,7 +27,7 @@
       <div class="title" style="margin-left:10px;height:30px; font-size:14px;line-height:30px;">{{goodsItms.name}}</div>
       <div class="price" style="margin-left:10px;height:auto; font-size:12px;">{{goodsItms.price}} 元/斤</div>
       <div class="btn" style="margin-left:10px;height:auto; font-size:12px;"><span class="kucun">{{goodsItms.kucun}}</span></div>
-      <span class="buyBtn">加入购物车</span>
+      <span class="buyBtn">+</span>
       </div>
       </div>
     </div>
